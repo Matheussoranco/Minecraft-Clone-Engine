@@ -1,2 +1,2 @@
 # Minecraft-Clone-Engine
-This is a project for a serious game for a class i made on 2023-2. The project was supposed to be a RPG dungeon style game mixed with minecraft elements. I had Only six months to develop documentation, textures and the code by myself.
+This is a project for a serious game for a class i made on 2023-2. The project was supposed to be a RPG dungeon style game mixed with minecraft elements. I had Only six months to develop documentation, textures and the code by myself. Long-story short, the class was terrible, my software was not registered and i had no time to develop the game. The engine still end-up being something, so i'm publishing it here. Be free to use it as you please.
